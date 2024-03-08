@@ -15,18 +15,15 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Continued development](#continued-development)
 
 - [Author](#author)
-- **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ### Screenshot
 
 ![screenShot](./images/Screenshot%20from%202024-03-07%2001-06-08.png)
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ solution URL](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub?share=true)
+- Live Site URL: [live site URL ](https://venerable-entremet-044442.netlify.app/)
 
 ## My process
 
